@@ -27,6 +27,7 @@ export * from "./SvelteKitSite.js";
 export * from "./util/size.js";
 export * from "./util/duration.js";
 export * from "./util/permission.js";
+export * from "./AngularSite.js";
 export * as Config from "./Config.js";
 export * as Metadata from "./Metadata.js";
 export { use, dependsOn, getStack, StackContext } from "./FunctionalStack.js";
